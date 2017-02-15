@@ -1,3 +1,3 @@
 # prfpsched
 
-to be updated
+Fixed priority P-FRP schedulers.
